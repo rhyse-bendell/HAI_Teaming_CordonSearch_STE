@@ -21,7 +21,6 @@
 *.pdb
 *.ilk
 *.exp
-*.lib
 *.log
 *.tmp
 *.temp
