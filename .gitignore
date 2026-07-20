@@ -32,3 +32,19 @@
 Thumbs.db
 Desktop.ini
 ehthumbs.db
+# =============================================================================
+# Externally distributed SAU content packs
+#
+# These folders remain in the local Unreal project but are distributed
+# separately from the Git repository.
+# =============================================================================
+
+/SAU_SIM/Content/Material/
+/SAU_SIM/Content/Environment/
+/SAU_SIM/Content/FPS_Weapons_Pack/
+/SAU_SIM/Content/Characters/
+/SAU_SIM/Content/Chameleon/
+/SAU_SIM/Content/Audio/
+
+# Local recovery inventory
+/SAU_Content_Inventory.csv
